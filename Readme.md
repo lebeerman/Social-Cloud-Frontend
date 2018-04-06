@@ -32,7 +32,7 @@ Let us know what you think!
 * Postgres + SQL + Knex
 * Cypress for Integration Testing in the Chrome browser
 
-### Install the Chrome Extension [HERE](https://chrome.google.com/webstore/detail/social-cloud/oiajhngngfjeolkboffbefmegjkoannk)
+### Download the Chrome Extension [HERE](https://chrome.google.com/webstore/detail/social-cloud/oiajhngngfjeolkboffbefmegjkoannk)
 
 ### Local Installation Instructions
 
